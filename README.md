@@ -1,6 +1,6 @@
 # Data scientist
 #### Phone Number: 966581258877              
-#### Email:aaml-21@hotmail.com
+#### Email: aaml-21@hotmail.com
 ### Technical skill: python, SQL, SAS, Power BI, Tabealu, Qlik sens
 ## Education
 M.S., Data science,                 University of Jeddah(2023)
