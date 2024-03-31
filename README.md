@@ -14,5 +14,5 @@
 #### A deep learning-based customized CNN model built to detect deepfakes in an image data set obtained from Kaggle contains 140,000 real and fake images using Python. By comparing the proposed model with state-of-the-art models, it achieved the highest accuracy of 96%. This demonstrates its potential as a powerful tool for detecting manipulated media content quickly and accurately
 ## Telco Customer Churn Prediction
 #### Developed a predictive model that can identify customers at risk of churning from telecommunications services with 86% accuracy. An oversampling technique has been used to address the imbalanced issue in the dataset effectively while also investigating the potential attributes that could be responsible for customer churning behavior.
-## Telco Customer Churn Prediction
+## Loan Bank Customer Default Prediction
 #### developed a machine learning model that predicts loan default probabilities for bank customers. The dataset used to train the model was obtained from Kaggle and included various features such as age, income, loan amount, credit history, and loan eligibility status (default or not). After extensive data preprocessing and model training, the Logistic Regression model demonstrated promising predictive capabilities by achieving an accuracy of 71.59%.
